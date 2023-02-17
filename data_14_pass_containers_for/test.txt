@@ -1,0 +1,3 @@
+Dit is een simpel test bestand voor het opbouwen van het Markov model .
+Met zo ' n simpel test bestand kan je kijken of het Markov model inderdaad goed gemaakt wordt .
+Want het Markov model moet natuurlijk wel kloppen , anders kan je met het Markov model geen zinnen vormen .
