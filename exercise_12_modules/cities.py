@@ -76,7 +76,7 @@ CITIES = [
           "province": "Paktika",
           "timezone": "Asia/Kabul"
           },
-  {
+        {
           "city": "Asadabad",
           "city_ascii": "Asadabad",
           "lat": 34.86600004,
@@ -88,7 +88,7 @@ CITIES = [
           "province": "Kunar",
           "timezone": "Asia/Kabul"
           },
-  {
+        {
           "city": "Taloqan",
           "city_ascii": "Taloqan",
           "lat": 36.72999904,
@@ -100,7 +100,7 @@ CITIES = [
           "province": "Takhar",
           "timezone": "Asia/Kabul"
           },
-  {
+        {
           "city": "Mahmud-E Eraqi",
           "city_ascii": "Mahmud-E Eraqi",
           "lat": 35.01669608,
@@ -112,7 +112,7 @@ CITIES = [
           "province": "Kapisa",
           "timezone": "Asia/Kabul"
           },
-  {
+        {
           "city": "Mehtar Lam",
           "city_ascii": "Mehtar Lam",
           "lat": 34.65000001,
@@ -124,7 +124,7 @@ CITIES = [
           "province": "Laghman",
           "timezone": "Asia/Kabul"
           },
-  {
+        {
           "city": "Baraki Barak",
           "city_ascii": "Baraki Barak",
           "lat": 33.9667021,
